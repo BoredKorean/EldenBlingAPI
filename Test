@@ -1,5 +1,9 @@
 [
   {
+    'Content-Type': 'application/json',
+    'Charset': 'utf-8'
+  },
+  {
     "id": 1,
     "name": "GHIZA's WHEEL",
     "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/ghiza's_wheel_colossal_weapon_elden_ring_wiki_guide_200px.png",
